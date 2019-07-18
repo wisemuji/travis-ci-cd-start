@@ -1,5 +1,5 @@
 {
-  "name": "node-koa-server",
+  "name": "travis-ci-cd-start",
   "version": "1.0.0",
   "description": "다양한 학습하기 위한 실습용 코드",
   "main": "server.js",
